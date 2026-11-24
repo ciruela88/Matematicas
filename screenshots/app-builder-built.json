@@ -1,0 +1,41 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Cifra — cálculo mental",
+      "hasCanvas": false,
+      "bodyTextLen": 216,
+      "bodyTextHash": "320ea4fe424cc1ef91031000a95fa2476a88cb6ed380289f82c058492c8926e0",
+      "bodyTextPrefix": "CÁLCULO MENTAL Cifra La misma cuenta guarda récords, rachas y el",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Cifra — cálculo mental",
+      "hasCanvas": false,
+      "bodyTextLen": 216,
+      "bodyTextHash": "320ea4fe424cc1ef91031000a95fa2476a88cb6ed380289f82c058492c8926e0",
+      "bodyTextPrefix": "CÁLCULO MENTAL Cifra La misma cuenta guarda récords, rachas y el",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": true,
+  "baselineReasons": [
+    "desktop: body text changed (25 -> 216 chars, hash mismatch)",
+    "mobile: body text changed (25 -> 216 chars, hash mismatch)"
+  ]
+}
